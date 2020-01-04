@@ -2,7 +2,7 @@
 
 ## How to create the app
 
-1. First, download both **airpods-icon.icns** and **shotcut-script.scpt** files.
+1. First, download both **airpods-icon.icns** and **shotcut-script.scpt** files;
 
 2. Open the **shortcut-script.scpt** file using **Script Editor.app** on your mac;
 
