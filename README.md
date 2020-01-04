@@ -2,17 +2,19 @@
 
 ## How to create the app
 
-1. Open the **shortcut-script.scpt** file using **Script Editor.app** on your mac;
+1. First, download both **airpods-icon.icns** and **shotcut-script.scpt** files.
 
-2. Go to **File** >> **Export...**;
+2. Open the **shortcut-script.scpt** file using **Script Editor.app** on your mac;
 
-3. On **Export As:**, change the name as you want or to something like **"Connect Airpods"**;
+3. Go to **File** >> **Export...**;
 
-4. On **Where:**, select the **Applications** folder;
+4. On **Export As:**, change the name as you want or to something like **"Connect Airpods"**;
 
-5. On **File Format:** select **Application**;
+5. On **Where:**, select the **Applications** folder;
 
-6. Save.
+6. On **File Format:** select **Application**;
+
+7. Save.
 
 ## How to add the Airpods icon to the app
 
